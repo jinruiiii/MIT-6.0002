@@ -1,0 +1,18 @@
+simulation without antibiotic 
+Timestep = 299, (767.94, 4.18)
+At timestep 299 for the simulatin without antibiotic, there is a 95% confidence that the numer of bacteria will fall within the range of 763.76 and 772.12.
+
+1. For simulation A, the total number of bacteria increases with a decreasing rate all the way from 100 to around 880 bacteria from timestep = 0 to timestep = 50,
+   where it plateaus until antibiotic was introduced. 
+   For simulation B, the total bacteria increases with a decreasing rate from 100 to 176 bacteria from timestep = 0 to timestep = 30. The total bacteria count decreases 
+   linearly from 176 to around 90 from timestep = 30 to timestep = 150
+
+2. For simulation A, the number of resistant bacteria increases sharply from 0 to 220 between timestep = 0 to timestep = 30 and decreases from 220 count to 35 count between 
+   timestep = 35 to timestep = 95 where it plateaus until bacteria was introuduced.
+   For simulation B, the number of resistant bacteria increases from 0 to 85 between timestep = 0 and timestep = 50, where it decreases linearly from 85 to 60 between timestep 
+   = 50 to timestep = 150
+
+3. For both simulations, the total bacteria count drop sharply in a single timestep and getting equal to the number of resistant bacteria.
+
+4. For simulation A, the resistant bacteria increases slowly from 35 count to 200 count where it plateaus.
+   For simulation B, the resistant bacteria drops sharply from 60 count all the way to 0 count in 75 timesteps.
